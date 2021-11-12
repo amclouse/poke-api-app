@@ -1,0 +1,9 @@
+body {
+    background-color: #080808;
+}
+
+.button {
+    background-color: #181818;
+    color: antiquewhite;
+    border: 1px grey solid;
+}
